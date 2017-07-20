@@ -50,14 +50,14 @@ var work = {
          "employer": "ItCompany", 
          "title": "frontend dev",
          "location": "Riyadh", 
-         "dates": "May2017",
-         "description": "translation of the UI/UX design wireframes to actual code that will produce visual elements of the application"
+         "dates": "August2017",
+         "description": "Utilize HTML, CSS and jQuery to develop effective user interfaces on the company website and mobile apps."
      }, {
      	"employer": "Jazeel", 
          "title": "Administration",
          "location": "Riyadh", 
-         "dates": "Augst2015 - now",
-         "description": "responsible for supporting organisation in a variety of ways including bookkeeping, communications, scheduling, data entry, secretarial services and much more."
+         "dates": "August2015 - now",
+         "description": "responsible for supporting organisation in a variety of ways including communications, scheduling, data entry, secretarial services and much more."
      }]
  };
     work.display = function() {
